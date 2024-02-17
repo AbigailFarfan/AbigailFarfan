@@ -9,7 +9,7 @@
 
 - 🌱 Estoy estudiando **ingeniería de sistemas en la UCB Sede Tarija.**
 
-- 📄 Conoce sobre mis experiencias: **Ganadora del 3er puesto de mejor rendimiento académico en 1ro, 2do, 3ro y 4to de primaria (2012 - 2015). Ganadora del 1er puesto de mejor rendimiento académico en 1ro y 2do de Secundaria (2018 - 2019). Ganadora del 3er puesto de la Carrera Pedestre del Colegio Sagrado Corazón de Jesús de Yacuiba en la categoría de 4to de Primaria (2015). Ganadora departamental de las Olimpiadas Plurinacionales de Física en la categoría de 2do de Secundaria (2019). Cantante y bailarina en proceso.**
+- 📄 Conoce sobre mis experiencias: **Ganadora del 3er puesto de mejor rendimiento académico en 1ro, 2do, 3ro y 4to de primaria (2012 - 2015). Ganadora del 1er puesto de mejor rendimiento académico en 1ro y 2do de Secundaria (2018 - 2019). Ganadora del 3er puesto de la Carrera Pedestre del Colegio Sagrado Corazón de Jesús de Yacuiba en la categoría de 4to de Primaria (2015). Ganadora departamental de las Olimpiadas Plurinacionales de Física en la categoría de 2do de Secundaria (2019). Egresada con excelencia académica del Colegio María Laura Justiniano 2 de Tarija (2023). Cantante y bailarina en proceso.**
 
 <h3 align="left">Conéctate conmigo ✨✨:</h3>
 <p align="left">
