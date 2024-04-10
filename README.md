@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
-<h1 align="center">Hola 👋, soy Abigail ❤️</h1>
-<h3 align="center">Una persona apasionada por el desarrollo de software.</h3>
+<h1 align="center">Hola 👋, soy Abigail y amo a Fernando Lopez❤️</h1>
+<h3 align="center">Una persona apasionada por el desarrollo de software https://www.instagram.com/_fernandolopez_07?igsh=MWptd3J2MzI1OWRoMQ==.</h3>
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de mí***
