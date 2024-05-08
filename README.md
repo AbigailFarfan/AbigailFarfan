@@ -1,17 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 <h1 align="center">Hola 👋, soy Abigail Farfan
-<h3 align="center">Una persona apasionada por el desarrollo de software
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de mí***
-- 🔭 Estoy trabajando en **crear diferentes tipos de apps.**
-
-- 🤝 Me gusta ayudar con **mis habilidades.**
-
-- 🌱 Estoy estudiando **ingeniería de sistemas en la UCB Sede Tarija.**
-
-- 📄 Conoce sobre mis experiencias: **Ganadora del 3er puesto de mejor rendimiento académico en 1ro, 2do, 3ro y 4to de primaria (2012 - 2015). Ganadora del 1er puesto de mejor rendimiento académico en 1ro y 2do de Secundaria (2018 - 2019). Ganadora del 3er puesto de la Carrera Pedestre del Colegio Sagrado Corazón de Jesús de Yacuiba en la categoría de 4to de Primaria (2015). Ganadora departamental de las Olimpiadas Plurinacionales de Física en la categoría de 2do de Secundaria (2019). Cantante y bailarina en proceso.
-
+<h3 align="center">Estudiante de ingeniería de sistemas y cantante
+  
 <h3 align="left">Conéctate conmigo ✨✨:</h3>
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100046264789507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100046264789507" height="30" width="40" /></a>
