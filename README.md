@@ -1,11 +1,23 @@
-<h1 align="center">Hola 👋, soy Abigail Farfan
-<h3 align="center">Estudiante de ingeniería de sistemas y cantante
+<h1 align="center">Hola 👋, soy Abigail Farfán
   
-<h3 align="left">Conéctate conmigo ✨✨:</h3>
-<p align="left">
-<a href="https://www.facebook.com/profile.php?id=100046264789507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100046264789507" height="30" width="40" /></a>
-<a href="https://www.instagram.com/abi_far_chav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abi_far_chav/" height="30" width="40" /></a>
-</p>
+## Estudiante de Ingeniería de Sistemas en la Universidad Católica Boliviana "San Pablo" Sede Tarija. Cantante en nivel avanzado. Bailarina de ballet clásico en nivel medio.
 
-<h3 align="left">Lenguajes y herramientas 💡🔨:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Soy estudiante de ingeniería de sistemas en la Universidad Católica Boliviana "San Pablo" Sede Tarija desde febrero de 2024.
+
+He trabajado como vendedora de cosméticos, peluches y artículos de casa en la tienda Paula Bonita de Tarija. Trabajo actualmente como ayudante del área de infraestructura de la Universidad Católica Boliviana "San Pablo" Sede Tarija.
+
+Gané un certificado de participación del Concurso de Programación en el Municipio de Yacuiba representando a la Unidad Educativa Sagrado Corazón de Jesús en 2014. Gané el 1er lugar de las Olimpiadas Plurinacionales de Física a nivel departamental en Tarija de la categoría de 2dos de Secundaria.
+
+## Encuéntrame en:
+
+<div align="left">
+  <a href="https://www.youtube.com/channel/UCV_pZ6XkZ1otQ9-n91l1LwA" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.facebook.com/abifarchav/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/abi_far_chav/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
