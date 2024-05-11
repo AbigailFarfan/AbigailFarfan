@@ -21,3 +21,46 @@ Gané un certificado de participación del Concurso de Programación en el Munic
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+
+# Algunos proyectos propios
+
+## Algoritmos de la vida real en PSeInt y Python
+
+https://github.com/AbigailFarfan/Trabajos-propios/blob/main/mate_de_manzanilla_y_cola_de_caballo.psc
+
+https://github.com/AbigailFarfan/Trabajos-propios/blob/main/mates.py
+
+https://github.com/AbigailFarfan/Trabajos-propios/blob/main/Algoritmodelavidareal.py
+
+## Programa generador de boleta de pago en PSeInt y Python
+
+https://github.com/AbigailFarfan/Trabajos-propios/blob/main/boletadepago.psc
+
+https://github.com/AbigailFarfan/Trabajos-propios/blob/main/boletadepago.py
+
+## Sistema de registro e inicio de sesión para una plataforma académica
+
+https://github.com/AbigailFarfan/Trabajos-propios/blob/main/usuarios.py
+
+# Algunos proyectos junto a mi grupo de universidad "MASSAY"
+
+## Calculadora en PSeInt y Python
+
+https://github.com/AbigailFarfan/Trabajos-con-mi-grupo-MASSAY/blob/main/CalculadoraRefactorizada-Massay.psc
+
+https://github.com/AbigailFarfan/Trabajos-con-mi-grupo-MASSAY/blob/main/calculadoraMASSAY.py
+
+## Cajeroautomático en PSeInt y Python
+
+https://github.com/AbigailFarfan/Trabajos-con-mi-grupo-MASSAY/blob/main/CajeroMassay.psc
+
+https://github.com/AbigailFarfan/Trabajos-con-mi-grupo-MASSAY/blob/main/cajeroMASSAY.py
+
+## Programa detector de números primos en Python
+
+https://github.com/AbigailFarfan/Trabajos-con-mi-grupo-MASSAY/blob/main/NumeroPrimo.py
+
+## Simulación de partidos de fútbol en Python
+
+https://github.com/AbigailFarfan/Trabajos-con-mi-grupo-MASSAY/blob/main/Partidos.py
+
